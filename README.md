@@ -29,14 +29,6 @@ To strengthen frontend skills by building a responsive music streaming UI simila
 - **CSS3** – flexbox, grid, media queries, custom styling
 - **Responsive Design** – mobile-first approach, adaptive layout
 
----
-
-## 📷 Screenshots
-
-_Add screenshots of desktop and mobile views here if available._
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository:
